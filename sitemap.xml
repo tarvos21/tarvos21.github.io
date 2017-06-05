@@ -1,291 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://dubing.win/CNAME</loc>
+    <loc>http://dubing.me/CNAME</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/about/</loc>
+    <loc>http://dubing.me/about/</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/archive/</loc>
+    <loc>http://dubing.me/archive/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/blog/2017-06-05-Start/</loc>
+    <loc>http://dubing.me/blog/2017-06-05-Start/</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/blog/LICENSE</loc>
+    <loc>http://dubing.me/blog/LICENSE</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/blog/</loc>
+    <loc>http://dubing.me/blog/</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/categories/</loc>
+    <loc>http://dubing.me/categories/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/humans.txt</loc>
+    <loc>http://dubing.me/humans.txt</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/</loc>
+    <loc>http://dubing.me/</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/.nojekyll</loc>
+    <loc>http://dubing.me/.nojekyll</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/random/</loc>
+    <loc>http://dubing.me/random/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/CONTRIBUTING/</loc>
+    <loc>http://dubing.me/relax/CONTRIBUTING/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/LICENSE.txt</loc>
+    <loc>http://dubing.me/relax/LICENSE.txt</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/README/</loc>
+    <loc>http://dubing.me/relax/README/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/Rakefile</loc>
+    <loc>http://dubing.me/relax/Rakefile</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/favicon.ico</loc>
+    <loc>http://dubing.me/relax/favicon.ico</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/</loc>
+    <loc>http://dubing.me/relax/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/animframe_polyfill.js</loc>
+    <loc>http://dubing.me/relax/js/animframe_polyfill.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/application.js</loc>
+    <loc>http://dubing.me/relax/js/application.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/bind_polyfill.js</loc>
+    <loc>http://dubing.me/relax/js/bind_polyfill.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/classlist_polyfill.js</loc>
+    <loc>http://dubing.me/relax/js/classlist_polyfill.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/game_manager.js</loc>
+    <loc>http://dubing.me/relax/js/game_manager.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/grid.js</loc>
+    <loc>http://dubing.me/relax/js/grid.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/html_actuator.js</loc>
+    <loc>http://dubing.me/relax/js/html_actuator.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/keyboard_input_manager.js</loc>
+    <loc>http://dubing.me/relax/js/keyboard_input_manager.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/local_storage_manager.js</loc>
+    <loc>http://dubing.me/relax/js/local_storage_manager.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/js/tile.js</loc>
+    <loc>http://dubing.me/relax/js/tile.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/meta/apple-touch-icon.png</loc>
+    <loc>http://dubing.me/relax/meta/apple-touch-icon.png</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/meta/apple-touch-startup-image-640x1096.png</loc>
+    <loc>http://dubing.me/relax/meta/apple-touch-startup-image-640x1096.png</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/meta/apple-touch-startup-image-640x920.png</loc>
+    <loc>http://dubing.me/relax/meta/apple-touch-startup-image-640x920.png</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/'</loc>
+    <loc>http://dubing.me/relax/style/'</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Bold-webfont.eot</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.eot</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Bold-webfont.svg</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.svg</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Bold-webfont.woff</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Bold-webfont.woff</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Light-webfont.eot</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.eot</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Light-webfont.svg</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.svg</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Light-webfont.woff</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Light-webfont.woff</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Regular-webfont.eot</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.eot</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Regular-webfont.svg</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.svg</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/ClearSans-Regular-webfont.woff</loc>
+    <loc>http://dubing.me/relax/style/fonts/ClearSans-Regular-webfont.woff</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/fonts/clear-sans.css</loc>
+    <loc>http://dubing.me/relax/style/fonts/clear-sans.css</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/helpers.scss</loc>
+    <loc>http://dubing.me/relax/style/helpers.scss</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/main.css</loc>
+    <loc>http://dubing.me/relax/style/main.css</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/main.css.map</loc>
+    <loc>http://dubing.me/relax/style/main.css.map</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/relax/style/main.scss</loc>
+    <loc>http://dubing.me/relax/style/main.scss</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/robots.txt</loc>
+    <loc>http://dubing.me/robots.txt</loc>
     <lastmod>2017-06-05</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/sitemap.xml</loc>
+    <loc>http://dubing.me/sitemap.xml</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tags/</loc>
+    <loc>http://dubing.me/tags/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170130-CS-courses/</loc>
+    <loc>http://dubing.me/tweet/20170130-CS-courses/</loc>
     <lastmod>2017-02-28</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170130-First-Tweet/</loc>
+    <loc>http://dubing.me/tweet/20170130-First-Tweet/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170202-GitHub-Card/</loc>
+    <loc>http://dubing.me/tweet/20170202-GitHub-Card/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170211-Google-Codelabs/</loc>
+    <loc>http://dubing.me/tweet/20170211-Google-Codelabs/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170217-Be-Uncomfortable/</loc>
+    <loc>http://dubing.me/tweet/20170217-Be-Uncomfortable/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170217-Innovation-Is-Bullshit/</loc>
+    <loc>http://dubing.me/tweet/20170217-Innovation-Is-Bullshit/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170228-Ruby-on-macOS-Sierra/</loc>
+    <loc>http://dubing.me/tweet/20170228-Ruby-on-macOS-Sierra/</loc>
     <lastmod>2017-02-28</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170301-Time-Machine-on-macOS/</loc>
+    <loc>http://dubing.me/tweet/20170301-Time-Machine-on-macOS/</loc>
     <lastmod>2017-03-01</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/20170314-Capacity-for-Effort/</loc>
+    <loc>http://dubing.me/tweet/20170314-Capacity-for-Effort/</loc>
     <lastmod>2017-03-14</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/tweet/</loc>
+    <loc>http://dubing.me/tweet/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/CNAME</loc>
+    <loc>http://dubing.me/type/CNAME</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/LICENSE.txt</loc>
+    <loc>http://dubing.me/type/LICENSE.txt</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/README/</loc>
+    <loc>http://dubing.me/type/README/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/about.html</loc>
+    <loc>http://dubing.me/type/about.html</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/complete.html</loc>
+    <loc>http://dubing.me/type/complete.html</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/css/main.css</loc>
+    <loc>http://dubing.me/type/css/main.css</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/</loc>
+    <loc>http://dubing.me/type/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/js/complete.js</loc>
+    <loc>http://dubing.me/type/js/complete.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/js/index.js</loc>
+    <loc>http://dubing.me/type/js/index.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/js/languages.js</loc>
+    <loc>http://dubing.me/type/js/languages.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/js/repo.js</loc>
+    <loc>http://dubing.me/type/js/repo.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/js/type.js</loc>
+    <loc>http://dubing.me/type/js/type.js</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/repo.html</loc>
+    <loc>http://dubing.me/type/repo.html</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/type/type.html</loc>
+    <loc>http://dubing.me/type/type.html</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
 </urlset>
