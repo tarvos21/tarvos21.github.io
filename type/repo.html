@@ -45,53 +45,88 @@
             <a class="item" href="https://github.com/tarvos21" target="_blank"><i class="github icon"></i></a><a class="item" id="contact"> Contact Me </a>
           </div>
         </div>
-      </nav><div class="ui vertical stripe segment">
-        <div class="ui grid stackable center aligned container">
-          <div class="row">
-            <div class="column">
-              <h1 class="ui massive header">
-                Projects I contribute to
-              </h1>
-            </div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="semantic-ui-forest/semantic-ui-forest" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="ppresume/docs-notes" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="Semantic-Org/Semantic-UI" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="7sDream/zhihu-oauth" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="fabianp/memory_profiler" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="liviu-/ding" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
+      </nav><div class="ui stackable container">
+        <div class="ui very padded segment article">
+          <article class="ui stackable grid">
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+            	<meta charset="UTF-8">
+            	<title>Type</title>
+            	<link rel="stylesheet" href="/type/css/main.css">
+            </head>
+            <body>
+            
+              <div class="row">
+            	<div class="ui basic segment" id="toolbar">
+            		<button class="ui labeled icon blue button" id="back">
+                  <i class="left chevron icon"></i>
+                  Back
+                </button>
+            	</div>
+            	</div>
+            
+              <div class="row">
+              </div>
+            
+            	<div class="ui grid" id="content">
+            		<noscript>
+            			<div class="error">
+            				JavaScript must be enabled.
+            			</div>
+            			<br>
+            		</noscript>
+            
+              <div class="row">
+                <div class="ui basic segment">
+            		  <h1 class="ui right floated block header" id="repo-title"></h1>
+                  <i class="github huge icon"></i>
+                </div>
+              </div>
+            
+              <div class="row">
+                <div class="ui basic segment">
+            		<h2>New File</h2>
+            		<form class="ui form" id="form">
+                  <div class="field">
+                    <label>
+                      Path to the file you want to type:
+                    </label>
+                    <div class="ui left icon input">
+                      <i class="folder open icon"></i>
+                    <input type="text" id="file" placeholder="src/main.py" required="true">
+                    </div>
+                  </div>
+                  <div class="field">
+                    <div class="ui right icon input" style="width:6rem;">
+            			<input class="ui positive button" type="submit" value="Type">
+                  <i class="keyboard icon"></i>
+                  </div>
+            		</form>
+            	  </div>
+                </div>
+                </div>
+            
+              <div class="row">
+                <div class="ui basic segment">
+            		<h2>Previous Files</h2>
+            		<div>
+            			<ul class="ui bulleted list prev-list" id="prev-files"></ul>
+            		</div>
+                </div>
+                </div>
+            
+                </div>
+            
+            
+            	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            	<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.4.2/localforage.min.js"></script>
+            	<script src="/type/js/repo.js"></script>
+            </body>
+            </html>
+            
+          </article>
         </div>
-        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-      </div>
-      <div class="ui vertical stripe segment">
-        <div class="ui grid stackable center aligned container">
-          <div class="row">
-            <div class="column">
-              <h1 class="ui massive header">
-                Repositories I create and work on
-              </h1>
-            </div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/read-and-write-code" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/80algorithms" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/zhihu-homepage-update" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/lpthw" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/tarvos21.github.io" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/ideas" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-        </div>
-        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
       </div>
     </div>
     <div id="footer"><footer lang="en">

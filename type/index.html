@@ -45,53 +45,91 @@
             <a class="item" href="https://github.com/tarvos21" target="_blank"><i class="github icon"></i></a><a class="item" id="contact"> Contact Me </a>
           </div>
         </div>
-      </nav><div class="ui vertical stripe segment">
-        <div class="ui grid stackable center aligned container">
-          <div class="row">
-            <div class="column">
-              <h1 class="ui massive header">
-                Projects I contribute to
-              </h1>
-            </div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="semantic-ui-forest/semantic-ui-forest" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="ppresume/docs-notes" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="Semantic-Org/Semantic-UI" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="7sDream/zhihu-oauth" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="fabianp/memory_profiler" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="liviu-/ding" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
+      </nav><div class="ui stackable container">
+        <div class="ui very padded segment article">
+          <article class="ui stackable grid">
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+            	<meta charset="UTF-8">
+            	<title>Type</title>
+            	<link rel="stylesheet" href="/type/css/main.css">
+            </head>
+            <body>
+            	
+            	<noscript>
+            		<div class="error">
+            			JavaScript must be enabled.
+            		</div>
+            		<br>
+            	</noscript>
+            
+              <div class="row">
+                <div class="ui center aligned container">
+                  <div class="ui green inverted segment">
+                  <h1 class="ui header">Type to Read</h1>
+                  </div>
+                </div>
+              </div>
+            
+              <div class="row">
+                <div class="ui basic segment">
+            	<h2 class="ui header">New Repo</h2>
+            	<form class="ui form" id="form">
+                <div class="field">
+                  <label>
+                    <i class="github icon"></i>
+                    GitHub repository you are interested in:
+                  </label>
+                    <div class="ui labeled input">
+                      <div class="ui label">
+                        https://github.com/
+                      </div>
+            		<input type="text" id="repo" placeholder="owner/repo" required="true">
+                    </div>
+                </div>
+                <div class="field">
+                  <label>
+                    <i class="fork icon"></i>
+                    Branch that the file is in:
+                  </label>
+            		<input type="text" id="branch" value="master" placeholder="master" required="true">
+                </div>
+                <div class="field">
+                  <div class="ui right icon input" style="width:6rem;">
+                  <i class="right chevron icon"></i>
+                  <input class="ui positive compact button" type="submit" value="GO">
+                  </div>
+                </div>
+            	</form>
+                </div>
+              </div>
+            
+              <div class="row">
+                <div class="ui basic segment">
+              	<h2 class="ui header">Previous Repos</h2>
+            
+                <div>
+            		  <ul class="ui bulleted list prev-list" id="prev-repos"></ul>
+                </div>
+              </div>
+              </div>
+            
+              <div class="row">
+                <div class="ui basic segment">
+            	    <p><a href="/type/about.html">About Type</a></p>
+                </div>
+              </div>
+            
+            
+            	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            	<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.4.2/localforage.min.js"></script>
+            	<script src="/type/js/index.js"></script>
+            </body>
+            </html>
+            
+          </article>
         </div>
-        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-      </div>
-      <div class="ui vertical stripe segment">
-        <div class="ui grid stackable center aligned container">
-          <div class="row">
-            <div class="column">
-              <h1 class="ui massive header">
-                Repositories I create and work on
-              </h1>
-            </div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/read-and-write-code" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/80algorithms" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/zhihu-homepage-update" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/lpthw" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-          <div class="row">
-            <div class="github-card" data-github="tarvos21/tarvos21.github.io" data-height="" data-theme="medium" data-width="500"></div>
-            <div class="github-card" data-github="tarvos21/ideas" data-height="" data-theme="medium" data-width="500"></div>
-          </div>
-        </div>
-        <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
       </div>
     </div>
     <div id="footer"><footer lang="en">
