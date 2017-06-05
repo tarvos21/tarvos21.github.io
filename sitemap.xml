@@ -2,39 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://dubing.win/CNAME</loc>
-    <lastmod>2017-02-27</lastmod>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/about/</loc>
-    <lastmod>2017-02-27</lastmod>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/archive/</loc>
     <lastmod>2017-02-27</lastmod>
   </url>
   <url>
-    <loc>http://dubing.win/blog/2014-04-16-new-blog-new-start/</loc>
-    <lastmod>2017-02-27</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.win/blog/2014-05-04-build-static-site-with-nanoc-1/</loc>
-    <lastmod>2017-02-27</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.win/blog/2014-07-25-build-static-site-with-nanoc-2/</loc>
-    <lastmod>2017-02-27</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.win/blog/2015-04-10-2014-summary/</loc>
-    <lastmod>2017-02-27</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.win/blog/2016-04-20-2015-summary/</loc>
-    <lastmod>2017-02-27</lastmod>
-  </url>
-  <url>
-    <loc>http://dubing.win/blog/2016-09-08-ppresume-a-new-start/</loc>
-    <lastmod>2017-02-27</lastmod>
+    <loc>http://dubing.win/blog/2017-06-05-Start/</loc>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/blog/LICENSE</loc>
@@ -42,7 +22,7 @@
   </url>
   <url>
     <loc>http://dubing.win/blog/</loc>
-    <lastmod>2017-02-27</lastmod>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/categories/</loc>
@@ -50,7 +30,7 @@
   </url>
   <url>
     <loc>http://dubing.win/humans.txt</loc>
-    <lastmod>2017-02-27</lastmod>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/</loc>
@@ -202,7 +182,7 @@
   </url>
   <url>
     <loc>http://dubing.win/robots.txt</loc>
-    <lastmod>2017-02-27</lastmod>
+    <lastmod>2017-06-05</lastmod>
   </url>
   <url>
     <loc>http://dubing.win/sitemap.xml</loc>
