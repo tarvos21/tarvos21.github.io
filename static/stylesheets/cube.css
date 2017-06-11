@@ -14,3 +14,6 @@
       .ui.cube.shape .sides > .side .items > .item .content .ui.list {
         padding-top: 0.3rem;
         padding-bottom: 0.5rem; }
+
+#moreAbout {
+  display: none; }
