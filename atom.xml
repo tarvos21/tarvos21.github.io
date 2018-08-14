@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://dubing.me/</id>
+  <title>Develop to Know and Love</title>
+  <updated>2017-06-05T20:00:00Z</updated>
+  <link rel="alternate" href="http://dubing.me/"/>
+  <link rel="self" href="http://dubing.me/atom.xml"/>
+  <author>
+    <name>Bingo Du</name>
+    <uri>http://dubing.me</uri>
+  </author>
+  <entry>
+    <id>tag:dubing.me,2017-06-06:/blog/2017-06-05-Start/</id>
+    <title type="html">Start</title>
+    <published>2017-06-05T20:00:00Z</published>
+    <updated>2017-06-05T20:00:00Z</updated>
+    <link rel="alternate" href="http://dubing.me/blog/2017-06-05-Start/"/>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Man has a large capacity for effort. In fact it is so much greater than we think it is that few ever reach this capacity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We should value the faculty of knowing what we ought to do and having the will to do it. Knowing is easy; it is the doing that is difficult. The critical issue is not what we know but what we do with what we know. The great end of life is not knowledge, but action.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I believe that it is the duty of each of us to act as if the fate of the world depended on him ... we must live for the future, not for our own comfort or success.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;-- Hyman G. Rickover&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Welcome to my new blog :-)&lt;/p&gt;
+</content>
+  </entry>
+</feed>
+
